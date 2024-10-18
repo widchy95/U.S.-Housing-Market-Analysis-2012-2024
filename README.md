@@ -65,5 +65,9 @@ This project aims to analyze the U.S. housing market from January 2012 to June 2
 ## **Conclusion**
 This analysis provides a detailed understanding of the U.S. housing market's evolution over the past decade. The findings can inform stakeholders, including policymakers, real estate professionals, and investors, about the market's current state and future trends.
 
+## Prepared by 
+
+**Widchy Joachim**
+*Data Analyst*
 
 ---
